@@ -30,6 +30,13 @@ export default function MainSection() {
               name="Apple Store"
             />
           </div>
+          <a
+            className="underline"
+            href="https://energetic-palm-634.notion.site/15d9460ce7a780979407f38c40bd2e17?pvs=4"
+            target="_blank"
+          >
+            앱 개인정보 처리방침
+          </a>
         </div>
       </div>
     </SectionLayout>
