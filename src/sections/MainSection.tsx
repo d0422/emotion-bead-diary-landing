@@ -19,13 +19,13 @@ export default function MainSection() {
             </Font>
           </div>
           <div className="flex gap-4">
-            <StoreButton
+            {/* <StoreButton
               href="https://play.google.com/store/"
               src="googlePlay"
               name="Google Play"
-            />
+            /> */}
             <StoreButton
-              href="https://apps.apple.com/kr/"
+              href="https://apps.apple.com/ko/app/%EA%B0%90%EC%A0%95%EA%B5%AC%EC%8A%AC%EC%9D%BC%EA%B8%B0/id6739556857"
               src="appStore"
               name="Apple Store"
             />
