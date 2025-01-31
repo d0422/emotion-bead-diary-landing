@@ -137,6 +137,7 @@ table {
 
 html,
 body {
+  font-family: 'Pretendard-Regular';
   min-height: 100%;
   scroll-snap-type: y mandatory;
 }

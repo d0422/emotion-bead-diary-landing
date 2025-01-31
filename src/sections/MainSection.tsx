@@ -6,7 +6,7 @@ import StoreButton from '../components/StoreButton';
 export default function MainSection() {
   return (
     <SectionLayout full>
-      <div className="flex justify-evenly items-center w-[80%] mobile:gap-4 mobile:flex-col-reverse">
+      <div className="flex justify-evenly items-center mobile:gap-4 mobile:flex-col-reverse">
         <div className=" h-full items-center flex flex-col justify-center gap-6 mobile:items-center">
           <Image srcFilename="logo" className="w-1/3 min-w-32" alt="logo" />
           <Font type="title" bold>
